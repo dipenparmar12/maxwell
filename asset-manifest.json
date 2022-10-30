@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/maxwell/static/css/main.0849b4c6.css",
+    "main.js": "/maxwell/static/js/main.63febc9a.js",
+    "static/js/375.ead11ebe.chunk.js": "/maxwell/static/js/375.ead11ebe.chunk.js",
+    "static/media/circle.png": "/maxwell/static/media/circle.e08062bc5ce8eef95b19.png",
+    "static/media/image_1.png": "/maxwell/static/media/image_1.9e46ecea49ce66ccd510.png",
+    "static/media/graph-dummy.png": "/maxwell/static/media/graph-dummy.92d15318f71657159045.png",
+    "static/media/avatar.png": "/maxwell/static/media/avatar.744180d62f2a9e738447.png",
+    "index.html": "/maxwell/index.html",
+    "main.0849b4c6.css.map": "/maxwell/static/css/main.0849b4c6.css.map",
+    "main.63febc9a.js.map": "/maxwell/static/js/main.63febc9a.js.map",
+    "375.ead11ebe.chunk.js.map": "/maxwell/static/js/375.ead11ebe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0849b4c6.css",
+    "static/js/main.63febc9a.js"
+  ]
+}
